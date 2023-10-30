@@ -1,4 +1,4 @@
- /* -- store01.s */
+/* -- store01.s */
 
 /* -- Data section */
 .data
